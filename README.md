@@ -1,16 +1,23 @@
-### Hi there 👋
-
 <!--
 **JavontaeH/JavontaeH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<h1> You've landed on Jae's Github 🚀!</h1>
+<p align='center'>
+
+
+<h2> About Me</h2>
+
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=drteresavasquez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+- 🔭 I’m currently working on various group projects to facilitate my learning with the front end web development tech stacks.  
+- 🌱 I’m currently learning front-end web development using JS.
+- 🤔 I’m looking for help with pursuing a career in software engineering without a college degree!
+- 💬 Ask me about anything video game (specialize in fighting games/mobas) or content creation (youtube/twitch) related.
+
+
+
+<h2> Connect with me! </h2>
+<a href = 'https://www.linkedin.com/in/drteresavasquez'> <img width='20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
