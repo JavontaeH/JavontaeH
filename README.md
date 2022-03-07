@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 
 ## Skills
-<a href= https://github.com/drteresavasquez?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+
 
 
 
