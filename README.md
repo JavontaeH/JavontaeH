@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything video games, e-sports, or content creation (youtube/twitch).
 
 
+## Skills
+
+
+
 
 <h2> Connect with me! </h2>
-<a href = 'https://www.linkedin.com/in/drteresavasquez'> <img width='20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://www.linkedin.com/in/javontae-hardeman/'> <img width='20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
