@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 
 <h2> Connect with me! </h2>
 <a href = 'https://www.linkedin.com/in/javontae-hardeman/'> <img width='20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg
