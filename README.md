@@ -20,12 +20,9 @@ Here are some ideas to get you started:
 
 ## Skills
 <nobr>
-<img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
-  
-<img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'>
-  
-<img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'>
-  
+  <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
+  <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'>
+  <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'>
 </nobr>
 
 
