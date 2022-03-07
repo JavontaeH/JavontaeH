@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on various group projects to facilitate my learning with the front end web development tech stacks.  
 - 🌱 I’m currently learning front-end web development using JS.
 - 🤔 I’m looking for help with pursuing a career in software engineering without a college degree!
-- 💬 Ask me about anything video game (specialize in fighting games/mobas) or content creation (youtube/twitch) related.
+- 💬 Ask me about anything video games, e-sports, or content creation (youtube/twitch).
 
 
 
