@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 
 
 ## Skills
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'>
 
 
 
 
 <h2> Connect with me! </h2>
 <a href = 'https://www.linkedin.com/in/javontae-hardeman/'> <img width='20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg
