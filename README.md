@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <h2> About Me</h2>
 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=drteresavasquez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=JavontaeH&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 - 🔭 I’m currently working on various group projects to facilitate my learning with the front end web development tech stacks.  
 - 🌱 I’m currently learning front-end web development using JS.
