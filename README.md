@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'>
   <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'>
   <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg'>
-<img width = '32px' src = 'https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg'</nobr>
+  <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg'></nobr>
 
 
 
