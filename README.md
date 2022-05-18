@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 
 <h2> About Me </h2>
 
-[![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavontaeH)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavontaeH)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=JavontaeH&show_icons=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavontaeH&layout=compact" />
 
 
 - 🌱 I’m currently attending an intensive full-time 6-month software development boot-camp at Nashville Software School supplementing learning with both individual and team-based projects, currently focusing on back-end web development.
