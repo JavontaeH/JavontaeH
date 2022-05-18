@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=JavontaeH&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-- 🔭 I’m currently working on various group projects to facilitate my learning with front-end web development technologies.  
+- 🔭 I’m currently working on various group/individual projects to facilitate my learning with back-end web development technologies.  
 - 🌱 I’m currently attending an intensive full-time 6-month software development boot-camp at Nashville Software School supplementing learning with both individual and team-based projects, currently focusing on front-end web development.
 - 🤔 I’m looking for help with pursuing a career in software engineering without a college degree! Advice and recommendations are greatly appreciated.
-- 💬 Ask me about anything video games, e-sports, or content creation (youtube/twitch).
+- 💬 Ask me about anything client-side web dev, video games, e-sports, or content creation (youtube/twitch).
 
 
 ## Skills
