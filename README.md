@@ -10,10 +10,12 @@ Here are some ideas to get you started:
 
 <h2> About Me </h2>
 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=JavontaeH&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavontaeH)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavontaeH)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on various group/individual projects to facilitate my learning with back-end web development technologies.  
-- 🌱 I’m currently attending an intensive full-time 6-month software development boot-camp at Nashville Software School supplementing learning with both individual and team-based projects, currently focusing on front-end web development.
+
+- 🌱 I’m currently attending an intensive full-time 6-month software development boot-camp at Nashville Software School supplementing learning with both individual and team-based projects, currently focusing on back-end web development.
+- 🔭 I’m currently working on various group/individual projects to facilitate my learning with back-end web development technologies such as C#, .Net, and SQL.  
 - 🤔 I’m looking for help with pursuing a career in software engineering without a college degree! Advice and recommendations are greatly appreciated.
 - 💬 Ask me about anything client-side web dev, video games, e-sports, or content creation (youtube/twitch).
 
