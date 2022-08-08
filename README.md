@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavontaeH&layout=compact&theme=tokyonight" />
 
 
-- 🌱 I’m currently attending an intensive full-time 6-month software development boot-camp at Nashville Software School supplementing learning with both individual and team-based projects, currently focusing on back-end web development.
-- 🔭 I’m currently working on various group/individual projects to facilitate my learning with back-end web development technologies such as C#, .Net, and SQL.  
+- 🌱 I just finished attending an intensive full-time 6-month software development boot-camp at Nashville Software School supplementing learning React, JavaScript, C#, .NET, and SQLServer to builld full-stack web applications, with both individual and team-based projects.  
+- 🔭 I’m currently searching for a job!  
 - 🤔 I’m looking for help with pursuing a career in software engineering without a college degree! Advice and recommendations are greatly appreciated.
-- 💬 Ask me about anything client-side web dev, video games, e-sports, or content creation (youtube/twitch).
+- 💬 Ask me about anything web dev, video games, e-sports, or content creation (youtube/twitch).
 
 
 ## Skills
