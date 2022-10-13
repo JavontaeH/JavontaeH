@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=JavontaeH&show_icons=true&theme=tokyonight" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavontaeH&layout=compact&theme=tokyonight" />
 
-
-- 🌱 I'm currently learning Apache Kafka, Powershell, and thinking about studying some other languages in order to mod games.  
 - 🔭 I’m currently an associate software engineer at naviHealth.  
+- 🌱 I'm learning Apache Kafka, Powershell, and thinking about studying some other languages in order to mod games.  
 - 💬 Ask me about anything web dev, video games, e-sports, or content creation (youtube/twitch).
 
 
