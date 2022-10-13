@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavontaeH&layout=compact&theme=tokyonight" />
 
 
-- 🌱 I just finished attending an intensive full-time 6-month software development boot-camp at Nashville Software School supplementing learning React, JavaScript, C#, .NET, and SQLServer to builld full-stack web applications, with both individual and team-based projects.  
-- 🔭 I’m currently searching for a job!  
-- 🤔 I’m looking for help with pursuing a career in software engineering without a college degree! Advice and recommendations are greatly appreciated.
+- 🌱 I'm currently learning Apache Kafka, Powershell, and thinking about studying some other languages in order to mod games.  
+- 🔭 I’m currently an associate software engineer at naviHealth.  
 - 💬 Ask me about anything web dev, video games, e-sports, or content creation (youtube/twitch).
 
 
